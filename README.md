@@ -1,6 +1,7 @@
 # Ex4_Premio
-Lucas Daniel da Costa Rabaquim
-Rafaella Medeiros Trexler Mourão
+Lucas Daniel da Costa Rabaquim<br>
+Rafaella Medeiros Trexler Mourão<br>
+
  Uma empresa decidiu dar uma gratificação de natal aos seus funcionarios, baseado no numero de horas extras e no numero de horas que o funcionario faltou ao trabalho. O valor do prémio é obtido pela consulta na tabela a seguir, em que:
  H = (número de horas extras) - (2/3 * (numero de horas-falta))
  
